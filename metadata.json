@@ -1,0 +1,6 @@
+{
+  "name": "ae Label",
+  "description": "Nơi âm thanh tìm thấy ngôi nhà của chính mình - Website nghệ thuật tối giản, sang trọng của ae Label.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
